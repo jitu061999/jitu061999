@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jitendra Verma</h1>
-<h3 align="center">A passionate web developer from India.</h3>
+<h3 align="center">A passionate Web developer from India.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://jitu061999.github.io/developerjitendra.github.io/](https://jitu061999.github.io/developerjitendra.github.io/)
+- 👨‍💻 All of my projects are available at [https://jitu061999.github.io/developerjitendra.github.io/](https://jitu061999.github.io/Jitendra_Portfolio/)
 
 - 💬 Ask me about **ReactJS, Bootstrap, MERN stack**
 
